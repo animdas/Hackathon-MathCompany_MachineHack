@@ -1,7 +1,9 @@
+![image](https://user-images.githubusercontent.com/64501147/126510370-8d738641-8b38-4fa8-954c-f6b7100a75f6.png)
+
 # AIM MachineHack - MathCompany Data Science Hiring Hackathon
 Jul 02 - Jul 19, 2021
 
-**Result**: Leaderboard Rank 5 / 2,357 
+**Result: Leaderboard Rank 5 / 2,357 **
 
 ###### In case of trouble opening the jupyter notebook (rendering issue), use this link: https://nbviewer.jupyter.org/github/animdas/Hackathon-MathCompany_MachineHack/blob/main/MachineHack_Mathco_Hackathon_Final.ipynb
 
